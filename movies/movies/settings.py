@@ -25,8 +25,7 @@ SECRET_KEY = 'a#8qls5)1nt5ek#r&^n2piajhvb0=mwr!(csir$3bo7)$d$!v='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['https://django-react-movie.herokuapp.com/', 'https://django-react-production.herokuapp.com/']
 
 # Application definition
 
